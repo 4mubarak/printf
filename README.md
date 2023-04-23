@@ -111,7 +111,7 @@ $ gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c
     - All the above options work well together.
 
 ## Authors:
-### Daniel Yohannes: [@leinad85daniel](https://github.com/leinad85daniel)
+### Mubarak Abdullahi: [@4mubarak](https://github.com/4mubarak)
 ### Selahadin Mohammed: [@selahudin](https://github.com/selahudin)
 
 ### Thank You!
